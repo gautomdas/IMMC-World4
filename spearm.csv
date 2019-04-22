@@ -1,0 +1,704 @@
+,0,1,2
+0,Average Annual Precipitation (mm/year),Use of Nitrogen per area of cropland (kg/ha),0.4794650764026132
+1,"Cropland (Eco. Footprint, gha)",Food supply (kcal/capita/day),0.6912297507434088
+2,"Cropland (Eco. Footprint, gha)","Grazing Land (Eco. Footprint, gha)",0.8788790157211211
+3,Emissions of CO2eq from Forests (gigagrams),Total Renewable Water Resources Per Capita (m^3/capita/year),-0.7553984837012856
+4,Emissions of CO2eq from Agriculture (gigagrams),Use of Nitrogen per area of cropland (kg/ha),0.3325999712469694
+5,"Built-up Land (Biocapacity, gha)","Death Rate, Crude (annually per 1000 people)",-0.9993848257006153
+6,Emissions of CO2eq from Waste (gigagrams),Use of Nitrogen per area of cropland (kg/ha),0.3325999712469694
+7,Emissions of CO2eq from Transportation (gigagrams),Industrial Production (% Relative to 2015),0.6239561318243023
+8,Industrial Production (% Relative to 2015),"Total (Eco. Footprint, gha)",0.9835142226493659
+9,Food supply (kcal/capita/day),"Grazing Land (Biocapacity, gha)",0.755554038268087
+10,Major livestock density in agricultural areas (LSU/ha),Year,0.9886534518113466
+11,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)","Death Rate, Crude (annually per 1000 people)",-0.7667654560953903
+12,Total Renewable Water Resources (10^9 m^3/year),Total Renewable Water Resources (10^9 m^3/year),1.0
+13,Emissions of CO2eq from Waste (gigagrams),Year,0.5921211648010414
+14,"Forest Products (Eco. Footprint, gha)",Total Emissions of CO2eq (gigagrams),0.4819042406041401
+15,"Cropland (Eco. Footprint, gha)","Forest Products (Biocapacity, gha)",-0.8809979494190021
+16,"Carbon (Eco. Footprint, gha)",Total Renewable Water Resources Per Capita (m^3/capita/year),0.8421104925979073
+17,Major livestock density in agricultural areas (LSU/ha),Use of Pesticides per area of cropland (kg/ha),0.9132280119533286
+18,"Death Rate, Crude (annually per 1000 people)",Use of Phosphate per area of cropland (kg/ha),-0.7712801905367291
+19,"Cropland (Biocapacity, gha)","Cropland (Biocapacity, gha)",1.0
+20,"Forest Products (Biocapacity, gha)","Total (Biocapacity, gha)",-0.8771018455228982
+21,"Grazing Land (Eco. Footprint, gha)","Total (Eco. Footprint, gha)",0.8781954887218046
+22,"Cropland (Eco. Footprint, gha)","Total (Eco. Footprint, gha)",0.9954887218045115
+23,"Cropland (Biocapacity, gha)",Use of Phosphate per area of cropland (kg/ha),0.7689126865412208
+24,"Cropland (Eco. Footprint, gha)","Fishing Grounds (Biocapacity, gha)",-0.7122351332877649
+25,Industrial Production (% Relative to 2015),Use of Phosphate per area of cropland (kg/ha),0.7744314637509967
+26,Emissions of CO2eq from Forests (gigagrams),Population (1000 persons),-0.5013219155518109
+27,"Built-up Land (Eco. Footprint, gha)","Grazing Land (Eco. Footprint, gha)",0.883937115516063
+28,"Built-up Land (Eco. Footprint, gha)",Major livestock density in agricultural areas (LSU/ha),0.9883116883116884
+29,"Cropland (Biocapacity, gha)",Emissions of CO2eq from Agriculture (gigagrams),0.5910991819090585
+30,Total Emissions of CO2eq (gigagrams),Use of Phosphate per area of cropland (kg/ha),0.3313897833588664
+31,Emissions of CO2eq from Land Use Sources (gigagrams),"Forest Products (Biocapacity, gha)",-0.13042073983071262
+32,"Cropland (Eco. Footprint, gha)","Grazing Land (Biocapacity, gha)",0.734107997265892
+33,Emissions of CO2eq from Forests (gigagrams),Emissions of CO2eq from Transportation (gigagrams),-0.89376130198915
+34,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)","Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)",0.9999999999999999
+35,Emissions of CO2eq from Land Use Sources (gigagrams),Emissions of CO2eq from Land Use Sources (gigagrams),1.0
+36,Average Annual Precipitation (mm/year),Emissions of CO2eq from Forests (gigagrams),-0.7553984837012856
+37,"Birth Rate, Crude (annually per 1000 people)","Carbon (Eco. Footprint, gha)",-0.9884483937115517
+38,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)",Emissions of CO2eq from Waste (gigagrams),0.7823831683565312
+39,"Grazing Land (Biocapacity, gha)",Total Renewable Water Resources Per Capita (m^3/capita/year),0.9146439056417304
+40,Average Annual Precipitation (mm/year),Total Renewable Water Resources Per Capita (m^3/capita/year),1.0
+41,Emissions of CO2eq from Transportation (gigagrams),"Grazing Land (Eco. Footprint, gha)",0.8172718573116868
+42,Emissions of CO2eq from Land Use Sources (gigagrams),"Grazing Land (Eco. Footprint, gha)",0.7232494312492803
+43,Average Annual Precipitation (mm/year),Average Annual Precipitation (mm/year),1.0
+44,Emissions of CO2eq from Other Sources (gigagrams),Total Renewable Water Resources Per Capita (m^3/capita/year),0.7557982077375335
+45,"Built-up Land (Biocapacity, gha)",Emissions of CO2eq from Forests (gigagrams),-0.5011646874145829
+46,"Built-up Land (Biocapacity, gha)","Built-up Land (Biocapacity, gha)",1.0
+47,"Total (Eco. Footprint, gha)",Use of Potash per area of cropland (kg/ha),0.7722447292015658
+48,Emissions of CO2eq from Transportation (gigagrams),Use of Nitrogen per area of cropland (kg/ha),0.3306838404241396
+49,"Cropland (Biocapacity, gha)","Grazing Land (Eco. Footprint, gha)",0.8788790157211211
+50,Average Annual Precipitation (mm/year),"Death Rate, Crude (annually per 1000 people)",-0.8474627425302259
+51,Total Renewable Water Resources Per Capita (m^3/capita/year),Use of Pesticides per area of cropland (kg/ha),0.7839796231541019
+52,Emissions of CO2eq from Waste (gigagrams),Use of Potash per area of cropland (kg/ha),0.3509544875498645
+53,Emissions of CO2eq from Waste (gigagrams),Total Emissions of CO2eq (gigagrams),0.9983725135623869
+54,Emissions of CO2eq from Waste (gigagrams),Food supply (kcal/capita/day),0.726443650075795
+55,Emissions of CO2eq from Other Sources (gigagrams),Major livestock density in agricultural areas (LSU/ha),0.551006006915892
+56,"Total (Eco. Footprint, gha)",Use of Nitrogen per area of cropland (kg/ha),0.7784703878564212
+57,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)","Fishing Grounds (Biocapacity, gha)",-0.4577630695339202
+58,"Forest Products (Biocapacity, gha)",Use of Phosphate per area of cropland (kg/ha),-0.7671589798778813
+59,Industrial Production (% Relative to 2015),Use of Potash per area of cropland (kg/ha),0.7774362189452835
+60,Emissions of CO2eq from Energy Production (gigagrams),"Total (Eco. Footprint, gha)",0.5918853225951991
+61,"Total (Biocapacity, gha)",Total Emissions of CO2eq (gigagrams),0.5886621457820229
+62,"Forest Products (Biocapacity, gha)",Use of Potash per area of cropland (kg/ha),-0.7658436998803766
+63,"Birth Rate, Crude (annually per 1000 people)",Emissions of CO2eq from Forests (gigagrams),0.5013219155518109
+64,"Cropland (Biocapacity, gha)","Cropland (Eco. Footprint, gha)",1.0
+65,"Death Rate, Crude (annually per 1000 people)","Total (Eco. Footprint, gha)",-0.9967874231032126
+66,"Built-up Land (Eco. Footprint, gha)","Built-up Land (Eco. Footprint, gha)",1.0
+67,"Built-up Land (Eco. Footprint, gha)","Forest Products (Biocapacity, gha)",-0.8798359535201641
+68,"Forest Products (Biocapacity, gha)",Industrial Production (% Relative to 2015),-0.8665038274425613
+69,"Fishing Grounds (Biocapacity, gha)","Forest Products (Eco. Footprint, gha)",-0.8147641831852359
+70,"Birth Rate, Crude (annually per 1000 people)",Emissions of CO2eq from Land Use Sources (gigagrams),-0.4851274174173162
+71,"Cropland (Eco. Footprint, gha)","Cropland (Eco. Footprint, gha)",1.0
+72,"Birth Rate, Crude (annually per 1000 people)","Forest Products (Eco. Footprint, gha)",-0.9376623376623378
+73,Population (1000 persons),"Total (Biocapacity, gha)",0.9974709501025291
+74,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)",Emissions of CO2eq from Land Use Sources (gigagrams),0.7014559949794869
+75,Food supply (kcal/capita/day),Total Emissions of CO2eq (gigagrams),0.7250285001081148
+76,"Built-up Land (Biocapacity, gha)",Year,0.9995898838004101
+77,Emissions of CO2eq from Agriculture (gigagrams),Use of Potash per area of cropland (kg/ha),0.3509544875498645
+78,"Fishing Grounds (Eco. Footprint, gha)","Forest Products (Biocapacity, gha)",-0.8593301435406699
+79,"Total (Eco. Footprint, gha)",Use of Phosphate per area of cropland (kg/ha),0.7712801905367291
+80,Emissions of CO2eq from Land Use Sources (gigagrams),Total Emissions of CO2eq (gigagrams),0.8835443037974682
+81,Total Renewable Water Resources Per Capita (m^3/capita/year),Year,0.8478102912271297
+82,Use of Potash per area of cropland (kg/ha),Year,0.7703156518718924
+83,"Cropland (Eco. Footprint, gha)",Total Renewable Water Resources (10^9 m^3/year),0.8441957847793302
+84,"Death Rate, Crude (annually per 1000 people)",Emissions of CO2eq from Waste (gigagrams),-0.5920425507324272
+85,Use of Nitrogen per area of cropland (kg/ha),Use of Nitrogen per area of cropland (kg/ha),0.9999999999999999
+86,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)",Use of Pesticides per area of cropland (kg/ha),0.8293301354662932
+87,"Fishing Grounds (Eco. Footprint, gha)",Population (1000 persons),0.9847573479152427
+88,"Birth Rate, Crude (annually per 1000 people)","Fishing Grounds (Biocapacity, gha)",0.6927546138072455
+89,Total Renewable Water Resources (10^9 m^3/year),Use of Potash per area of cropland (kg/ha),0.4883820389542705
+90,"Fishing Grounds (Biocapacity, gha)","Fishing Grounds (Biocapacity, gha)",1.0
+91,Emissions of CO2eq from Other Sources (gigagrams),Use of Phosphate per area of cropland (kg/ha),0.2495004029305646
+92,"Birth Rate, Crude (annually per 1000 people)","Built-up Land (Eco. Footprint, gha)",-0.9915926179084074
+93,Emissions of CO2eq from Land Use Sources (gigagrams),Population (1000 persons),0.4851274174173162
+94,"Death Rate, Crude (annually per 1000 people)","Grazing Land (Biocapacity, gha)",-0.7397129186602871
+95,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)",Population (1000 persons),0.7666138914667886
+96,Emissions of CO2eq from Land Use Sources (gigagrams),Total Renewable Water Resources (10^9 m^3/year),0.7510015193025585
+97,Population (1000 persons),Total Renewable Water Resources (10^9 m^3/year),0.8478102912271297
+98,"Carbon (Eco. Footprint, gha)",Population (1000 persons),0.9905673274094328
+99,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)",Food supply (kcal/capita/day),0.7343429304550501
+100,Total Renewable Water Resources Per Capita (m^3/capita/year),Use of Nitrogen per area of cropland (kg/ha),0.4794650764026132
+101,Emissions of CO2eq from Waste (gigagrams),Use of Phosphate per area of cropland (kg/ha),0.3312889343681912
+102,"Forest Products (Biocapacity, gha)",Use of Nitrogen per area of cropland (kg/ha),-0.775489086528744
+103,Average Annual Precipitation (mm/year),Emissions of CO2eq from Energy Production (gigagrams),0.814957365102223
+104,Emissions of CO2eq from Forests (gigagrams),Emissions of CO2eq from Forests (gigagrams),1.0
+105,"Death Rate, Crude (annually per 1000 people)","Fishing Grounds (Biocapacity, gha)",0.7062884483937116
+106,Emissions of CO2eq from Transportation (gigagrams),"Total (Biocapacity, gha)",0.5887407598506371
+107,"Forest Products (Eco. Footprint, gha)",Use of Pesticides per area of cropland (kg/ha),0.8326512359974498
+108,"Death Rate, Crude (annually per 1000 people)",Total Renewable Water Resources (10^9 m^3/year),-0.8474627425302259
+109,"Built-up Land (Eco. Footprint, gha)","Forest Products (Eco. Footprint, gha)",0.9449077238550924
+110,"Built-up Land (Biocapacity, gha)","Fishing Grounds (Biocapacity, gha)",-0.706015037593985
+111,Emissions of CO2eq from Forests (gigagrams),"Grazing Land (Eco. Footprint, gha)",-0.7205765529164027
+112,Major livestock density in agricultural areas (LSU/ha),Total Renewable Water Resources Per Capita (m^3/capita/year),0.8240379603589097
+113,Total Emissions of CO2eq (gigagrams),Total Renewable Water Resources Per Capita (m^3/capita/year),0.8101606766672482
+114,"Grazing Land (Biocapacity, gha)",Use of Nitrogen per area of cropland (kg/ha),0.2726137008161313
+115,Emissions of CO2eq from Land Use Sources (gigagrams),Total Renewable Water Resources Per Capita (m^3/capita/year),0.7510015193025585
+116,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)",Emissions of CO2eq from Forests (gigagrams),-0.706903435298351
+117,"Grazing Land (Biocapacity, gha)","Total (Eco. Footprint, gha)",0.7382091592617909
+118,Food supply (kcal/capita/day),"Total (Biocapacity, gha)",0.6915715376059202
+119,"Birth Rate, Crude (annually per 1000 people)",Population (1000 persons),-0.9923444976076556
+120,"Built-up Land (Biocapacity, gha)","Total (Eco. Footprint, gha)",0.9965823650034177
+121,"Grazing Land (Eco. Footprint, gha)",Major livestock density in agricultural areas (LSU/ha),0.8723855092276145
+122,"Cropland (Biocapacity, gha)","Total (Biocapacity, gha)",0.9989747095010254
+123,"Cropland (Eco. Footprint, gha)",Emissions of CO2eq from Waste (gigagrams),0.5903916552915321
+124,Emissions of CO2eq from Forests (gigagrams),Industrial Production (% Relative to 2015),-0.5247570109298227
+125,Emissions of CO2eq from Transportation (gigagrams),Food supply (kcal/capita/day),0.7247140223375192
+126,"Birth Rate, Crude (annually per 1000 people)","Forest Products (Biocapacity, gha)",0.8770334928229666
+127,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)",Use of Phosphate per area of cropland (kg/ha),0.5532094296825572
+128,"Birth Rate, Crude (annually per 1000 people)","Cropland (Biocapacity, gha)",-0.9891319207108682
+129,Emissions of CO2eq from Land Use Sources (gigagrams),Major livestock density in agricultural areas (LSU/ha),0.4874072254071237
+130,"Grazing Land (Biocapacity, gha)",Year,0.7384142173615857
+131,"Forest Products (Biocapacity, gha)",Use of Pesticides per area of cropland (kg/ha),-0.7193723681545414
+132,Emissions of CO2eq from Waste (gigagrams),"Forest Products (Biocapacity, gha)",-0.34362209391202225
+133,Average Annual Precipitation (mm/year),"Carbon (Eco. Footprint, gha)",0.8421104925979073
+134,"Grazing Land (Biocapacity, gha)",Population (1000 persons),0.7384142173615857
+135,Industrial Production (% Relative to 2015),Major livestock density in agricultural areas (LSU/ha),0.9711828356949839
+136,Emissions of CO2eq from Other Sources (gigagrams),"Fishing Grounds (Eco. Footprint, gha)",0.5412578624077495
+137,Emissions of CO2eq from Waste (gigagrams),Major livestock density in agricultural areas (LSU/ha),0.5792284575483367
+138,"Carbon (Eco. Footprint, gha)","Grazing Land (Eco. Footprint, gha)",0.8699931647300069
+139,Industrial Production (% Relative to 2015),Use of Pesticides per area of cropland (kg/ha),0.9292460692960238
+140,"Cropland (Biocapacity, gha)","Grazing Land (Biocapacity, gha)",0.734107997265892
+141,Emissions of CO2eq from Forests (gigagrams),"Fishing Grounds (Biocapacity, gha)",0.4154753526252659
+142,Emissions of CO2eq from Forests (gigagrams),"Forest Products (Biocapacity, gha)",0.15078178360175212
+143,"Fishing Grounds (Biocapacity, gha)","Total (Eco. Footprint, gha)",-0.7076555023923445
+144,Emissions of CO2eq from Transportation (gigagrams),Total Renewable Water Resources Per Capita (m^3/capita/year),0.8177554333559582
+145,Total Emissions of CO2eq (gigagrams),Total Emissions of CO2eq (gigagrams),1.0
+146,Use of Phosphate per area of cropland (kg/ha),Use of Potash per area of cropland (kg/ha),0.9925759280089989
+147,"Cropland (Biocapacity, gha)",Total Renewable Water Resources Per Capita (m^3/capita/year),0.8441957847793302
+148,"Cropland (Biocapacity, gha)","Fishing Grounds (Eco. Footprint, gha)",0.9813397129186603
+149,"Carbon (Eco. Footprint, gha)","Total (Eco. Footprint, gha)",0.996719070403281
+150,"Fishing Grounds (Biocapacity, gha)","Total (Biocapacity, gha)",-0.7047846889952154
+151,"Cropland (Eco. Footprint, gha)","Fishing Grounds (Eco. Footprint, gha)",0.9813397129186603
+152,"Birth Rate, Crude (annually per 1000 people)",Food supply (kcal/capita/day),-0.686513092040749
+153,Emissions of CO2eq from Land Use Sources (gigagrams),Year,0.4851274174173162
+154,Total Emissions of CO2eq (gigagrams),Use of Nitrogen per area of cropland (kg/ha),0.3327008202376446
+155,Emissions of CO2eq from Other Sources (gigagrams),Industrial Production (% Relative to 2015),0.5726134558341883
+156,"Forest Products (Eco. Footprint, gha)","Total (Eco. Footprint, gha)",0.947505126452495
+157,"Cropland (Biocapacity, gha)",Emissions of CO2eq from Other Sources (gigagrams),0.5451885658384521
+158,Food supply (kcal/capita/day),Population (1000 persons),0.6943058325060129
+159,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)","Built-up Land (Eco. Footprint, gha)",0.7666896737810893
+160,"Forest Products (Biocapacity, gha)","Grazing Land (Biocapacity, gha)",-0.512987012987013
+161,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)",Emissions of CO2eq from Transportation (gigagrams),0.786043848250808
+162,"Fishing Grounds (Eco. Footprint, gha)",Major livestock density in agricultural areas (LSU/ha),0.9712235133287764
+163,Emissions of CO2eq from Agriculture (gigagrams),"Total (Biocapacity, gha)",0.5903130412229182
+164,"Built-up Land (Biocapacity, gha)","Grazing Land (Biocapacity, gha)",0.7375939849624061
+165,Emissions of CO2eq from Agriculture (gigagrams),"Forest Products (Eco. Footprint, gha)",0.4859135581034567
+166,"Birth Rate, Crude (annually per 1000 people)",Major livestock density in agricultural areas (LSU/ha),-0.9820915926179086
+167,Emissions of CO2eq from Energy Production (gigagrams),Use of Potash per area of cropland (kg/ha),0.35155958149391603
+168,"Forest Products (Eco. Footprint, gha)","Forest Products (Eco. Footprint, gha)",1.0
+169,Emissions of CO2eq from Agriculture (gigagrams),Emissions of CO2eq from Waste (gigagrams),0.9990054249547919
+170,"Cropland (Eco. Footprint, gha)",Emissions of CO2eq from Other Sources (gigagrams),0.5451885658384521
+171,"Carbon (Eco. Footprint, gha)","Forest Products (Biocapacity, gha)",-0.8691045796308955
+172,Emissions of CO2eq from Transportation (gigagrams),Major livestock density in agricultural areas (LSU/ha),0.5776561761760556
+173,"Forest Products (Eco. Footprint, gha)",Use of Nitrogen per area of cropland (kg/ha),0.7280513212854096
+174,"Grazing Land (Biocapacity, gha)",Use of Phosphate per area of cropland (kg/ha),0.2866433541228476
+175,"Death Rate, Crude (annually per 1000 people)","Fishing Grounds (Eco. Footprint, gha)",-0.9848257006151743
+176,Average Annual Precipitation (mm/year),"Cropland (Eco. Footprint, gha)",0.8441957847793302
+177,"Cropland (Biocapacity, gha)",Total Renewable Water Resources (10^9 m^3/year),0.8441957847793302
+178,"Birth Rate, Crude (annually per 1000 people)","Total (Biocapacity, gha)",-0.9894736842105263
+179,"Grazing Land (Eco. Footprint, gha)",Use of Phosphate per area of cropland (kg/ha),0.5764433802397064
+180,Emissions of CO2eq from Waste (gigagrams),Use of Pesticides per area of cropland (kg/ha),0.6390558925217383
+181,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)",Industrial Production (% Relative to 2015),0.7745542973207323
+182,"Carbon (Biocapacity, gha)","Grazing Land (Eco. Footprint, gha)",nan
+183,"Carbon (Biocapacity, gha)","Total (Biocapacity, gha)",nan
+184,Industrial Production (% Relative to 2015),Year,0.9834453322194533
+185,Emissions of CO2eq from Forests (gigagrams),Use of Potash per area of cropland (kg/ha),-0.09358786334663054
+186,Emissions of CO2eq from Forests (gigagrams),Emissions of CO2eq from Land Use Sources (gigagrams),-0.981374321880651
+187,Emissions of CO2eq from Transportation (gigagrams),Emissions of CO2eq from Transportation (gigagrams),1.0
+188,"Built-up Land (Eco. Footprint, gha)","Death Rate, Crude (annually per 1000 people)",-0.9993848257006153
+189,Average Annual Precipitation (mm/year),Major livestock density in agricultural areas (LSU/ha),0.8240379603589097
+190,"Carbon (Biocapacity, gha)",Emissions of CO2eq from Energy Production (gigagrams),nan
+191,"Built-up Land (Biocapacity, gha)",Use of Nitrogen per area of cropland (kg/ha),0.77908418518859
+192,"Forest Products (Eco. Footprint, gha)","Total (Biocapacity, gha)",0.9410799726589201
+193,Emissions of CO2eq from Transportation (gigagrams),"Forest Products (Eco. Footprint, gha)",0.48992287560277337
+194,Emissions of CO2eq from Waste (gigagrams),"Grazing Land (Biocapacity, gha)",0.8007629029027359
+195,Use of Pesticides per area of cropland (kg/ha),Use of Pesticides per area of cropland (kg/ha),1.0
+196,"Carbon (Eco. Footprint, gha)",Emissions of CO2eq from Forests (gigagrams),-0.5008502311401266
+197,Emissions of CO2eq from Transportation (gigagrams),"Forest Products (Biocapacity, gha)",-0.341735356265285
+198,Average Annual Precipitation (mm/year),Total Renewable Water Resources (10^9 m^3/year),1.0
+199,"Death Rate, Crude (annually per 1000 people)","Total (Biocapacity, gha)",-0.9975393028024606
+200,"Forest Products (Eco. Footprint, gha)",Use of Phosphate per area of cropland (kg/ha),0.74137949192679
+201,Major livestock density in agricultural areas (LSU/ha),Total Emissions of CO2eq (gigagrams),0.5802504404403194
+202,"Built-up Land (Biocapacity, gha)",Major livestock density in agricultural areas (LSU/ha),0.9883116883116884
+203,Emissions of CO2eq from Other Sources (gigagrams),"Total (Biocapacity, gha)",0.5440879688778554
+204,"Fishing Grounds (Eco. Footprint, gha)",Total Emissions of CO2eq (gigagrams),0.5892124442623213
+205,"Fishing Grounds (Biocapacity, gha)","Forest Products (Biocapacity, gha)",0.6772385509227615
+206,"Grazing Land (Biocapacity, gha)",Use of Potash per area of cropland (kg/ha),0.29251827144503506
+207,"Built-up Land (Biocapacity, gha)",Total Renewable Water Resources Per Capita (m^3/capita/year),0.846837154875799
+208,"Death Rate, Crude (annually per 1000 people)",Industrial Production (% Relative to 2015),-0.9834453322194534
+209,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)","Built-up Land (Biocapacity, gha)",0.7666896737810893
+210,Total Renewable Water Resources Per Capita (m^3/capita/year),Use of Phosphate per area of cropland (kg/ha),0.48882788708185343
+211,Emissions of CO2eq from Other Sources (gigagrams),Food supply (kcal/capita/day),0.6750265345834172
+212,"Built-up Land (Eco. Footprint, gha)","Grazing Land (Biocapacity, gha)",0.7375939849624061
+213,Emissions of CO2eq from Energy Production (gigagrams),"Fishing Grounds (Biocapacity, gha)",-0.44613483938474635
+214,Emissions of CO2eq from Land Use Sources (gigagrams),"Grazing Land (Biocapacity, gha)",0.8296928801527071
+215,"Fishing Grounds (Eco. Footprint, gha)",Use of Phosphate per area of cropland (kg/ha),0.7739107505317385
+216,Emissions of CO2eq from Energy Production (gigagrams),Emissions of CO2eq from Forests (gigagrams),-0.8954792043399638
+217,Emissions of CO2eq from Agriculture (gigagrams),Industrial Production (% Relative to 2015),0.6203114356892017
+218,"Carbon (Biocapacity, gha)","Cropland (Eco. Footprint, gha)",nan
+219,"Fishing Grounds (Biocapacity, gha)",Total Renewable Water Resources Per Capita (m^3/capita/year),-0.6960357752892403
+220,"Cropland (Biocapacity, gha)",Emissions of CO2eq from Land Use Sources (gigagrams),0.4835551360450352
+221,"Built-up Land (Biocapacity, gha)","Total (Biocapacity, gha)",0.9982228298017771
+222,"Forest Products (Eco. Footprint, gha)",Major livestock density in agricultural areas (LSU/ha),0.9308954203691047
+223,Emissions of CO2eq from Waste (gigagrams),Industrial Production (% Relative to 2015),0.6199945055904971
+224,"Fishing Grounds (Eco. Footprint, gha)",Total Renewable Water Resources (10^9 m^3/year),0.8393996127620578
+225,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)",Emissions of CO2eq from Other Sources (gigagrams),0.7097361042641601
+226,"Forest Products (Biocapacity, gha)",Year,-0.8806561859193439
+227,"Birth Rate, Crude (annually per 1000 people)",Total Renewable Water Resources (10^9 m^3/year),-0.8455859795669453
+228,"Birth Rate, Crude (annually per 1000 people)",Use of Phosphate per area of cropland (kg/ha),-0.7713678758698962
+229,"Carbon (Eco. Footprint, gha)","Grazing Land (Biocapacity, gha)",0.7363636363636366
+230,"Built-up Land (Biocapacity, gha)",Emissions of CO2eq from Other Sources (gigagrams),0.5446382673581537
+231,Major livestock density in agricultural areas (LSU/ha),Use of Nitrogen per area of cropland (kg/ha),0.77908418518859
+232,Population (1000 persons),"Total (Eco. Footprint, gha)",0.9965823650034177
+233,"Grazing Land (Eco. Footprint, gha)",Total Renewable Water Resources (10^9 m^3/year),0.9255221798548193
+234,"Cropland (Biocapacity, gha)",Major livestock density in agricultural areas (LSU/ha),0.9875598086124403
+235,"Forest Products (Biocapacity, gha)","Forest Products (Eco. Footprint, gha)",-0.9010252904989748
+236,Emissions of CO2eq from Forests (gigagrams),Emissions of CO2eq from Other Sources (gigagrams),-0.92124773960217
+237,Average Annual Precipitation (mm/year),"Built-up Land (Eco. Footprint, gha)",0.846837154875799
+238,"Total (Biocapacity, gha)",Year,0.9974709501025291
+239,"Birth Rate, Crude (annually per 1000 people)",Emissions of CO2eq from Other Sources (gigagrams),-0.545109951769838
+240,"Death Rate, Crude (annually per 1000 people)",Total Renewable Water Resources Per Capita (m^3/capita/year),-0.8474627425302259
+241,"Death Rate, Crude (annually per 1000 people)",Population (1000 persons),-0.9997949419002051
+242,"Carbon (Eco. Footprint, gha)","Cropland (Biocapacity, gha)",0.9883800410116199
+243,Emissions of CO2eq from Agriculture (gigagrams),Emissions of CO2eq from Energy Production (gigagrams),0.9989150090415914
+244,Emissions of CO2eq from Transportation (gigagrams),Use of Pesticides per area of cropland (kg/ha),0.6388864715534134
+245,"Grazing Land (Eco. Footprint, gha)","Grazing Land (Eco. Footprint, gha)",1.0
+246,"Built-up Land (Biocapacity, gha)",Food supply (kcal/capita/day),0.6941007603885059
+247,Total Renewable Water Resources (10^9 m^3/year),Year,0.8478102912271297
+248,Average Annual Precipitation (mm/year),Use of Potash per area of cropland (kg/ha),0.4883820389542705
+249,"Cropland (Biocapacity, gha)",Use of Potash per area of cropland (kg/ha),0.7692634278738887
+250,"Birth Rate, Crude (annually per 1000 people)",Use of Potash per area of cropland (kg/ha),-0.7703156518718923
+251,Use of Potash per area of cropland (kg/ha),Use of Potash per area of cropland (kg/ha),0.9999999999999999
+252,Emissions of CO2eq from Land Use Sources (gigagrams),Industrial Production (% Relative to 2015),0.5068504603530237
+253,"Cropland (Biocapacity, gha)","Forest Products (Eco. Footprint, gha)",0.9457279562542722
+254,"Fishing Grounds (Biocapacity, gha)",Major livestock density in agricultural areas (LSU/ha),-0.7078605604921394
+255,Emissions of CO2eq from Land Use Sources (gigagrams),Use of Potash per area of cropland (kg/ha),0.08652843399936315
+256,Use of Pesticides per area of cropland (kg/ha),Use of Phosphate per area of cropland (kg/ha),0.8278794372787334
+257,Emissions of CO2eq from Other Sources (gigagrams),"Total (Eco. Footprint, gha)",0.5455816361815223
+258,Emissions of CO2eq from Agriculture (gigagrams),Major livestock density in agricultural areas (LSU/ha),0.5804076685775474
+259,"Built-up Land (Biocapacity, gha)","Carbon (Eco. Footprint, gha)",0.990498974709501
+260,"Fishing Grounds (Eco. Footprint, gha)","Fishing Grounds (Eco. Footprint, gha)",1.0
+261,"Built-up Land (Eco. Footprint, gha)",Emissions of CO2eq from Land Use Sources (gigagrams),0.48504880334870215
+262,"Birth Rate, Crude (annually per 1000 people)","Grazing Land (Biocapacity, gha)",-0.7390293916609706
+263,"Total (Eco. Footprint, gha)",Total Renewable Water Resources (10^9 m^3/year),0.8460725477426108
+264,"Carbon (Biocapacity, gha)",Total Renewable Water Resources Per Capita (m^3/capita/year),nan
+265,"Cropland (Biocapacity, gha)",Total Emissions of CO2eq (gigagrams),0.588740759850637
+266,"Carbon (Biocapacity, gha)","Forest Products (Biocapacity, gha)",nan
+267,"Built-up Land (Eco. Footprint, gha)",Emissions of CO2eq from Other Sources (gigagrams),0.5446382673581537
+268,"Built-up Land (Eco. Footprint, gha)","Total (Biocapacity, gha)",0.9982228298017771
+269,"Carbon (Eco. Footprint, gha)",Emissions of CO2eq from Land Use Sources (gigagrams),0.4852060314859303
+270,"Birth Rate, Crude (annually per 1000 people)",Use of Pesticides per area of cropland (kg/ha),-0.9259700432516531
+271,"Built-up Land (Eco. Footprint, gha)",Emissions of CO2eq from Energy Production (gigagrams),0.591885322595199
+272,"Birth Rate, Crude (annually per 1000 people)",Emissions of CO2eq from Transportation (gigagrams),-0.5905488834287602
+273,"Built-up Land (Eco. Footprint, gha)",Use of Potash per area of cropland (kg/ha),0.7707540785377274
+274,Population (1000 persons),Use of Potash per area of cropland (kg/ha),0.7703156518718923
+275,"Carbon (Biocapacity, gha)","Carbon (Eco. Footprint, gha)",nan
+276,"Grazing Land (Biocapacity, gha)",Total Emissions of CO2eq (gigagrams),0.7992692355990688
+277,"Built-up Land (Biocapacity, gha)","Fishing Grounds (Eco. Footprint, gha)",0.9838687628161312
+278,"Built-up Land (Eco. Footprint, gha)","Cropland (Biocapacity, gha)",0.9982228298017771
+279,"Birth Rate, Crude (annually per 1000 people)","Birth Rate, Crude (annually per 1000 people)",1.0
+280,Major livestock density in agricultural areas (LSU/ha),Use of Phosphate per area of cropland (kg/ha),0.7710171345372282
+281,Emissions of CO2eq from Other Sources (gigagrams),"Grazing Land (Eco. Footprint, gha)",0.7632639921738331
+282,"Fishing Grounds (Biocapacity, gha)","Grazing Land (Biocapacity, gha)",-0.5505126452494874
+283,"Fishing Grounds (Eco. Footprint, gha)",Industrial Production (% Relative to 2015),0.9676349785544773
+284,Emissions of CO2eq from Agriculture (gigagrams),"Fishing Grounds (Eco. Footprint, gha)",0.5894482864681635
+285,"Birth Rate, Crude (annually per 1000 people)",Emissions of CO2eq from Waste (gigagrams),-0.5921211648010413
+286,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)",Total Renewable Water Resources (10^9 m^3/year),0.8677339674853475
+287,Emissions of CO2eq from Forests (gigagrams),Use of Phosphate per area of cropland (kg/ha),-0.07946900465209578
+288,Use of Phosphate per area of cropland (kg/ha),Use of Phosphate per area of cropland (kg/ha),0.9999999999999999
+289,"Cropland (Biocapacity, gha)","Fishing Grounds (Biocapacity, gha)",-0.7122351332877649
+290,"Carbon (Eco. Footprint, gha)",Use of Pesticides per area of cropland (kg/ha),0.9242760159692169
+291,Food supply (kcal/capita/day),Industrial Production (% Relative to 2015),0.6821996687790562
+292,"Fishing Grounds (Biocapacity, gha)",Use of Potash per area of cropland (kg/ha),-0.4159792205441386
+293,Food supply (kcal/capita/day),Use of Nitrogen per area of cropland (kg/ha),0.3887356539688836
+294,Emissions of CO2eq from Other Sources (gigagrams),Population (1000 persons),0.545109951769838
+295,Emissions of CO2eq from Agriculture (gigagrams),Food supply (kcal/capita/day),0.7253429778787106
+296,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)",Average Annual Precipitation (mm/year),0.8677339674853475
+297,"Built-up Land (Biocapacity, gha)",Emissions of CO2eq from Energy Production (gigagrams),0.591885322595199
+298,"Grazing Land (Eco. Footprint, gha)",Use of Nitrogen per area of cropland (kg/ha),0.5639043775968287
+299,Population (1000 persons),Total Renewable Water Resources Per Capita (m^3/capita/year),0.8478102912271297
+300,"Built-up Land (Eco. Footprint, gha)","Cropland (Eco. Footprint, gha)",0.9982228298017771
+301,"Forest Products (Eco. Footprint, gha)",Year,0.9450444292549557
+302,Average Annual Precipitation (mm/year),"Total (Biocapacity, gha)",0.8455859795669453
+303,"Carbon (Eco. Footprint, gha)",Total Renewable Water Resources (10^9 m^3/year),0.8421104925979073
+304,"Total (Biocapacity, gha)",Use of Nitrogen per area of cropland (kg/ha),0.7746122331970743
+305,"Fishing Grounds (Eco. Footprint, gha)",Food supply (kcal/capita/day),0.6813862891030753
+306,Population (1000 persons),Population (1000 persons),1.0
+307,Emissions of CO2eq from Forests (gigagrams),"Total (Biocapacity, gha)",-0.49974963417952994
+308,"Carbon (Biocapacity, gha)",Food supply (kcal/capita/day),nan
+309,Major livestock density in agricultural areas (LSU/ha),Use of Potash per area of cropland (kg/ha),0.7701402812055584
+310,Average Annual Precipitation (mm/year),Use of Pesticides per area of cropland (kg/ha),0.7839796231541019
+311,"Built-up Land (Eco. Footprint, gha)","Total (Eco. Footprint, gha)",0.9965823650034177
+312,Emissions of CO2eq from Other Sources (gigagrams),Year,0.545109951769838
+313,Emissions of CO2eq from Waste (gigagrams),Emissions of CO2eq from Waste (gigagrams),1.0
+314,"Total (Biocapacity, gha)",Use of Potash per area of cropland (kg/ha),0.7675097212105491
+315,Food supply (kcal/capita/day),"Forest Products (Eco. Footprint, gha)",0.645293596421853
+316,"Carbon (Biocapacity, gha)","Fishing Grounds (Eco. Footprint, gha)",nan
+317,"Forest Products (Eco. Footprint, gha)","Grazing Land (Biocapacity, gha)",0.6699931647300069
+318,Emissions of CO2eq from Land Use Sources (gigagrams),Emissions of CO2eq from Other Sources (gigagrams),0.9228752260397829
+319,Average Annual Precipitation (mm/year),Use of Phosphate per area of cropland (kg/ha),0.48882788708185343
+320,Average Annual Precipitation (mm/year),"Forest Products (Biocapacity, gha)",-0.6656947740495385
+321,Emissions of CO2eq from Land Use Sources (gigagrams),Emissions of CO2eq from Waste (gigagrams),0.8769439421338155
+322,"Death Rate, Crude (annually per 1000 people)",Emissions of CO2eq from Transportation (gigagrams),-0.5904702693601462
+323,"Fishing Grounds (Eco. Footprint, gha)","Grazing Land (Biocapacity, gha)",0.7302802460697199
+324,Industrial Production (% Relative to 2015),Total Emissions of CO2eq (gigagrams),0.6197568080164689
+325,"Carbon (Eco. Footprint, gha)","Total (Biocapacity, gha)",0.9887901572112098
+326,"Cropland (Eco. Footprint, gha)","Death Rate, Crude (annually per 1000 people)",-0.9973342447026657
+327,Emissions of CO2eq from Energy Production (gigagrams),Use of Nitrogen per area of cropland (kg/ha),0.3327008202376446
+328,Emissions of CO2eq from Waste (gigagrams),"Fishing Grounds (Eco. Footprint, gha)",0.5900771990170759
+329,Average Annual Precipitation (mm/year),Population (1000 persons),0.8478102912271297
+330,Emissions of CO2eq from Forests (gigagrams),Use of Nitrogen per area of cropland (kg/ha),-0.08299871932572946
+331,"Grazing Land (Eco. Footprint, gha)","Total (Biocapacity, gha)",0.8820915926179085
+332,"Built-up Land (Eco. Footprint, gha)",Industrial Production (% Relative to 2015),0.9832386609297151
+333,Average Annual Precipitation (mm/year),"Forest Products (Eco. Footprint, gha)",0.8006826879269745
+334,"Carbon (Biocapacity, gha)","Fishing Grounds (Biocapacity, gha)",nan
+335,Average Annual Precipitation (mm/year),Year,0.8478102912271297
+336,Emissions of CO2eq from Land Use Sources (gigagrams),Use of Nitrogen per area of cropland (kg/ha),0.06635863586431347
+337,"Forest Products (Biocapacity, gha)",Total Renewable Water Resources (10^9 m^3/year),-0.6656947740495386
+338,"Carbon (Biocapacity, gha)",Emissions of CO2eq from Other Sources (gigagrams),nan
+339,"Carbon (Biocapacity, gha)",Use of Phosphate per area of cropland (kg/ha),nan
+340,"Birth Rate, Crude (annually per 1000 people)",Use of Nitrogen per area of cropland (kg/ha),-0.779259555854924
+341,Use of Nitrogen per area of cropland (kg/ha),Use of Pesticides per area of cropland (kg/ha),0.8349658282620595
+342,"Built-up Land (Biocapacity, gha)","Built-up Land (Eco. Footprint, gha)",1.0
+343,"Carbon (Biocapacity, gha)","Grazing Land (Biocapacity, gha)",nan
+344,Average Annual Precipitation (mm/year),Emissions of CO2eq from Other Sources (gigagrams),0.7557982077375334
+345,Emissions of CO2eq from Agriculture (gigagrams),Emissions of CO2eq from Land Use Sources (gigagrams),0.8757685352622061
+346,"Birth Rate, Crude (annually per 1000 people)",Year,-0.9923444976076556
+347,Industrial Production (% Relative to 2015),Population (1000 persons),0.9834453322194533
+348,"Grazing Land (Biocapacity, gha)",Total Renewable Water Resources (10^9 m^3/year),0.9146439056417304
+349,Emissions of CO2eq from Waste (gigagrams),"Grazing Land (Eco. Footprint, gha)",0.8130266976065281
+350,Emissions of CO2eq from Agriculture (gigagrams),"Grazing Land (Eco. Footprint, gha)",0.8116902584400891
+351,"Built-up Land (Eco. Footprint, gha)",Food supply (kcal/capita/day),0.6941007603885059
+352,"Birth Rate, Crude (annually per 1000 people)","Grazing Land (Eco. Footprint, gha)",-0.8758714969241285
+353,"Built-up Land (Biocapacity, gha)",Emissions of CO2eq from Waste (gigagrams),0.5919639366638132
+354,Total Renewable Water Resources (10^9 m^3/year),Use of Pesticides per area of cropland (kg/ha),0.7839796231541019
+355,Food supply (kcal/capita/day),Total Renewable Water Resources (10^9 m^3/year),0.8355641823766164
+356,Average Annual Precipitation (mm/year),Total Emissions of CO2eq (gigagrams),0.8101606766672482
+357,"Carbon (Eco. Footprint, gha)",Emissions of CO2eq from Agriculture (gigagrams),0.5905488834287602
+358,"Fishing Grounds (Biocapacity, gha)",Use of Nitrogen per area of cropland (kg/ha),-0.3974776152459064
+359,"Cropland (Eco. Footprint, gha)",Emissions of CO2eq from Energy Production (gigagrams),0.5904702693601462
+360,Emissions of CO2eq from Waste (gigagrams),"Fishing Grounds (Biocapacity, gha)",-0.4451128564927636
+361,Use of Nitrogen per area of cropland (kg/ha),Use of Potash per area of cropland (kg/ha),0.9883014623172103
+362,Emissions of CO2eq from Other Sources (gigagrams),Use of Nitrogen per area of cropland (kg/ha),0.24829021504246163
+363,Emissions of CO2eq from Transportation (gigagrams),Total Emissions of CO2eq (gigagrams),0.9968354430379747
+364,Emissions of CO2eq from Other Sources (gigagrams),"Forest Products (Eco. Footprint, gha)",0.4421255218854297
+365,Average Annual Precipitation (mm/year),"Total (Eco. Footprint, gha)",0.8460725477426108
+366,"Cropland (Eco. Footprint, gha)",Total Renewable Water Resources Per Capita (m^3/capita/year),0.8441957847793302
+367,Emissions of CO2eq from Land Use Sources (gigagrams),Food supply (kcal/capita/day),0.6132316526613855
+368,"Fishing Grounds (Biocapacity, gha)",Total Emissions of CO2eq (gigagrams),-0.4493580161979224
+369,"Grazing Land (Biocapacity, gha)","Total (Biocapacity, gha)",0.7392344497607656
+370,"Carbon (Biocapacity, gha)",Emissions of CO2eq from Waste (gigagrams),nan
+371,Use of Pesticides per area of cropland (kg/ha),Use of Potash per area of cropland (kg/ha),0.8280684077049553
+372,"Carbon (Eco. Footprint, gha)",Emissions of CO2eq from Transportation (gigagrams),0.5908633397032165
+373,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)","Total (Eco. Footprint, gha)",0.7716155242106407
+374,Average Annual Precipitation (mm/year),"Grazing Land (Biocapacity, gha)",0.9146439056417304
+375,"Cropland (Biocapacity, gha)",Food supply (kcal/capita/day),0.6912297507434088
+376,Population (1000 persons),Use of Nitrogen per area of cropland (kg/ha),0.779259555854924
+377,Emissions of CO2eq from Transportation (gigagrams),"Grazing Land (Biocapacity, gha)",0.8024137983436309
+378,"Cropland (Eco. Footprint, gha)",Emissions of CO2eq from Transportation (gigagrams),0.588740759850637
+379,"Forest Products (Eco. Footprint, gha)",Industrial Production (% Relative to 2015),0.9463133904964813
+380,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)","Carbon (Biocapacity, gha)",nan
+381,"Carbon (Eco. Footprint, gha)",Industrial Production (% Relative to 2015),0.9775896456768697
+382,"Carbon (Eco. Footprint, gha)","Carbon (Eco. Footprint, gha)",1.0
+383,Average Annual Precipitation (mm/year),Industrial Production (% Relative to 2015),0.8627466814608753
+384,"Death Rate, Crude (annually per 1000 people)",Use of Pesticides per area of cropland (kg/ha),-0.9259700432516531
+385,"Built-up Land (Biocapacity, gha)",Emissions of CO2eq from Transportation (gigagrams),0.5903130412229182
+386,Industrial Production (% Relative to 2015),Total Renewable Water Resources (10^9 m^3/year),0.8627466814608753
+387,"Death Rate, Crude (annually per 1000 people)",Emissions of CO2eq from Agriculture (gigagrams),-0.5914136381835149
+388,Use of Pesticides per area of cropland (kg/ha),Year,0.9259700432516531
+389,Emissions of CO2eq from Energy Production (gigagrams),"Forest Products (Biocapacity, gha)",-0.3434648657747941
+390,Emissions of CO2eq from Other Sources (gigagrams),"Fishing Grounds (Biocapacity, gha)",-0.4526598070797127
+391,Emissions of CO2eq from Transportation (gigagrams),Year,0.5905488834287602
+392,Average Annual Precipitation (mm/year),"Cropland (Biocapacity, gha)",0.8441957847793302
+393,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)","Total (Biocapacity, gha)",0.7676748438669998
+394,Emissions of CO2eq from Land Use Sources (gigagrams),"Total (Biocapacity, gha)",0.4853632596231584
+395,Average Annual Precipitation (mm/year),"Birth Rate, Crude (annually per 1000 people)",-0.8455859795669453
+396,Emissions of CO2eq from Agriculture (gigagrams),"Forest Products (Biocapacity, gha)",-0.34598051597044377
+397,Industrial Production (% Relative to 2015),"Total (Biocapacity, gha)",0.9807241602378997
+398,"Carbon (Eco. Footprint, gha)","Forest Products (Eco. Footprint, gha)",0.9395762132604238
+399,Use of Nitrogen per area of cropland (kg/ha),Use of Phosphate per area of cropland (kg/ha),0.9896512935883015
+400,Average Annual Precipitation (mm/year),Emissions of CO2eq from Agriculture (gigagrams),0.8137581929934793
+401,Major livestock density in agricultural areas (LSU/ha),Major livestock density in agricultural areas (LSU/ha),1.0
+402,"Fishing Grounds (Eco. Footprint, gha)",Total Renewable Water Resources Per Capita (m^3/capita/year),0.8393996127620578
+403,"Death Rate, Crude (annually per 1000 people)",Food supply (kcal/capita/day),-0.6941691177610082
+404,"Death Rate, Crude (annually per 1000 people)",Emissions of CO2eq from Forests (gigagrams),0.501243301483197
+405,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)","Fishing Grounds (Eco. Footprint, gha)",0.7713881772677383
+406,Emissions of CO2eq from Agriculture (gigagrams),Emissions of CO2eq from Transportation (gigagrams),0.9971971066907775
+407,Emissions of CO2eq from Energy Production (gigagrams),Use of Pesticides per area of cropland (kg/ha),0.6393947344583881
+408,Emissions of CO2eq from Forests (gigagrams),Use of Pesticides per area of cropland (kg/ha),-0.5491780688253486
+409,"Cropland (Eco. Footprint, gha)",Use of Phosphate per area of cropland (kg/ha),0.7689126865412208
+410,"Cropland (Eco. Footprint, gha)",Year,0.9973342447026657
+411,"Carbon (Eco. Footprint, gha)",Use of Phosphate per area of cropland (kg/ha),0.7693511132070557
+412,Food supply (kcal/capita/day),Total Renewable Water Resources Per Capita (m^3/capita/year),0.8355641823766164
+413,"Cropland (Biocapacity, gha)",Emissions of CO2eq from Transportation (gigagrams),0.588740759850637
+414,"Fishing Grounds (Biocapacity, gha)",Food supply (kcal/capita/day),-0.680224213770536
+415,"Carbon (Biocapacity, gha)",Emissions of CO2eq from Agriculture (gigagrams),nan
+416,Major livestock density in agricultural areas (LSU/ha),"Total (Eco. Footprint, gha)",0.9849624060150376
+417,Emissions of CO2eq from Waste (gigagrams),Total Renewable Water Resources Per Capita (m^3/capita/year),0.8149573651022229
+418,Emissions of CO2eq from Energy Production (gigagrams),Population (1000 persons),0.5920425507324272
+419,Emissions of CO2eq from Agriculture (gigagrams),Emissions of CO2eq from Forests (gigagrams),-0.8945750452079566
+420,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)","Carbon (Eco. Footprint, gha)",0.778549605969163
+421,Emissions of CO2eq from Other Sources (gigagrams),"Grazing Land (Biocapacity, gha)",0.7815810701609072
+422,"Grazing Land (Eco. Footprint, gha)",Use of Pesticides per area of cropland (kg/ha),0.8140169358906515
+423,"Birth Rate, Crude (annually per 1000 people)",Emissions of CO2eq from Agriculture (gigagrams),-0.5912564100462867
+424,Emissions of CO2eq from Transportation (gigagrams),"Total (Eco. Footprint, gha)",0.5909419537718306
+425,Emissions of CO2eq from Land Use Sources (gigagrams),"Total (Eco. Footprint, gha)",0.4845771189370178
+426,"Cropland (Biocapacity, gha)","Death Rate, Crude (annually per 1000 people)",-0.9973342447026657
+427,Major livestock density in agricultural areas (LSU/ha),"Total (Biocapacity, gha)",0.987218045112782
+428,"Cropland (Eco. Footprint, gha)",Use of Nitrogen per area of cropland (kg/ha),0.7771551078589165
+429,"Cropland (Eco. Footprint, gha)","Forest Products (Eco. Footprint, gha)",0.9457279562542722
+430,"Built-up Land (Biocapacity, gha)",Use of Pesticides per area of cropland (kg/ha),0.9258227365314413
+431,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)","Cropland (Eco. Footprint, gha)",0.7629384492232003
+432,"Grazing Land (Eco. Footprint, gha)",Use of Potash per area of cropland (kg/ha),0.5851242282232372
+433,"Built-up Land (Eco. Footprint, gha)",Emissions of CO2eq from Agriculture (gigagrams),0.5913350241149007
+434,"Carbon (Eco. Footprint, gha)","Fishing Grounds (Eco. Footprint, gha)",0.9717703349282298
+435,"Carbon (Biocapacity, gha)",Emissions of CO2eq from Land Use Sources (gigagrams),nan
+436,"Built-up Land (Biocapacity, gha)",Emissions of CO2eq from Agriculture (gigagrams),0.5913350241149007
+437,"Fishing Grounds (Biocapacity, gha)",Population (1000 persons),-0.7057416267942584
+438,"Forest Products (Biocapacity, gha)","Forest Products (Biocapacity, gha)",1.0
+439,"Built-up Land (Biocapacity, gha)",Population (1000 persons),0.9995898838004101
+440,"Fishing Grounds (Eco. Footprint, gha)","Total (Biocapacity, gha)",0.9818181818181817
+441,Emissions of CO2eq from Other Sources (gigagrams),Emissions of CO2eq from Waste (gigagrams),0.9459312839059675
+442,"Cropland (Eco. Footprint, gha)",Industrial Production (% Relative to 2015),0.9817575166865912
+443,Emissions of CO2eq from Forests (gigagrams),"Total (Eco. Footprint, gha)",-0.5009288452087407
+444,Emissions of CO2eq from Agriculture (gigagrams),Emissions of CO2eq from Other Sources (gigagrams),0.9452983725135624
+445,"Carbon (Eco. Footprint, gha)",Year,0.9905673274094328
+446,"Carbon (Eco. Footprint, gha)","Death Rate, Crude (annually per 1000 people)",-0.9906356801093644
+447,Emissions of CO2eq from Energy Production (gigagrams),"Fishing Grounds (Eco. Footprint, gha)",0.590234427154304
+448,"Cropland (Eco. Footprint, gha)",Emissions of CO2eq from Forests (gigagrams),-0.4995924060423018
+449,Emissions of CO2eq from Waste (gigagrams),"Total (Eco. Footprint, gha)",0.591728094457971
+450,Total Renewable Water Resources (10^9 m^3/year),Total Renewable Water Resources Per Capita (m^3/capita/year),1.0
+451,"Cropland (Biocapacity, gha)",Population (1000 persons),0.9973342447026657
+452,Emissions of CO2eq from Agriculture (gigagrams),Emissions of CO2eq from Agriculture (gigagrams),1.0
+453,Average Annual Precipitation (mm/year),Emissions of CO2eq from Waste (gigagrams),0.814957365102223
+454,Emissions of CO2eq from Energy Production (gigagrams),"Grazing Land (Eco. Footprint, gha)",0.813105311675142
+455,Use of Phosphate per area of cropland (kg/ha),Year,0.7713678758698961
+456,"Built-up Land (Eco. Footprint, gha)",Emissions of CO2eq from Waste (gigagrams),0.5919639366638132
+457,Emissions of CO2eq from Other Sources (gigagrams),Use of Pesticides per area of cropland (kg/ha),0.5889919963817135
+458,"Death Rate, Crude (annually per 1000 people)",Year,-0.9997949419002051
+459,Emissions of CO2eq from Land Use Sources (gigagrams),Use of Pesticides per area of cropland (kg/ha),0.5289322631105161
+460,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)",Major livestock density in agricultural areas (LSU/ha),0.7365662038465256
+461,"Forest Products (Biocapacity, gha)",Major livestock density in agricultural areas (LSU/ha),-0.8708133971291866
+462,"Grazing Land (Eco. Footprint, gha)",Year,0.8844839371155161
+463,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)",Use of Potash per area of cropland (kg/ha),0.5568064332671726
+464,"Birth Rate, Crude (annually per 1000 people)","Fishing Grounds (Eco. Footprint, gha)",-0.9744360902255639
+465,Major livestock density in agricultural areas (LSU/ha),Total Renewable Water Resources (10^9 m^3/year),0.8240379603589097
+466,"Carbon (Biocapacity, gha)",Year,nan
+467,Emissions of CO2eq from Energy Production (gigagrams),Emissions of CO2eq from Energy Production (gigagrams),1.0
+468,Emissions of CO2eq from Other Sources (gigagrams),Emissions of CO2eq from Transportation (gigagrams),0.9475587703435805
+469,"Cropland (Biocapacity, gha)",Emissions of CO2eq from Forests (gigagrams),-0.4995924060423018
+470,Emissions of CO2eq from Agriculture (gigagrams),Use of Phosphate per area of cropland (kg/ha),0.3312889343681912
+471,Emissions of CO2eq from Agriculture (gigagrams),Use of Pesticides per area of cropland (kg/ha),0.6380393667117885
+472,"Fishing Grounds (Eco. Footprint, gha)",Use of Nitrogen per area of cropland (kg/ha),0.7720693585352321
+473,"Cropland (Biocapacity, gha)",Use of Nitrogen per area of cropland (kg/ha),0.7771551078589165
+474,"Built-up Land (Eco. Footprint, gha)",Emissions of CO2eq from Transportation (gigagrams),0.5903130412229182
+475,Food supply (kcal/capita/day),"Total (Eco. Footprint, gha)",0.699090848581175
+476,"Forest Products (Eco. Footprint, gha)",Total Renewable Water Resources Per Capita (m^3/capita/year),0.8006826879269745
+477,"Carbon (Biocapacity, gha)",Use of Nitrogen per area of cropland (kg/ha),nan
+478,"Fishing Grounds (Biocapacity, gha)","Fishing Grounds (Eco. Footprint, gha)",-0.735475051264525
+479,Emissions of CO2eq from Energy Production (gigagrams),Major livestock density in agricultural areas (LSU/ha),0.5791498434797226
+480,"Forest Products (Biocapacity, gha)",Total Renewable Water Resources Per Capita (m^3/capita/year),-0.6656947740495386
+481,"Grazing Land (Eco. Footprint, gha)",Industrial Production (% Relative to 2015),0.8907877039868055
+482,"Grazing Land (Biocapacity, gha)","Grazing Land (Eco. Footprint, gha)",0.9030075187969926
+483,"Forest Products (Biocapacity, gha)","Grazing Land (Eco. Footprint, gha)",-0.711073137388927
+484,Food supply (kcal/capita/day),Year,0.6943058325060129
+485,Emissions of CO2eq from Forests (gigagrams),"Grazing Land (Biocapacity, gha)",-0.8189227527525819
+486,"Grazing Land (Eco. Footprint, gha)",Total Emissions of CO2eq (gigagrams),0.8076809409407724
+487,Emissions of CO2eq from Waste (gigagrams),"Forest Products (Eco. Footprint, gha)",0.48245453908443847
+488,Food supply (kcal/capita/day),Food supply (kcal/capita/day),1.0
+489,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)",Emissions of CO2eq from Agriculture (gigagrams),0.775541183316038
+490,"Carbon (Biocapacity, gha)",Population (1000 persons),nan
+491,Emissions of CO2eq from Forests (gigagrams),"Fishing Grounds (Eco. Footprint, gha)",-0.4894511911910891
+492,"Birth Rate, Crude (annually per 1000 people)","Cropland (Eco. Footprint, gha)",-0.9891319207108682
+493,"Carbon (Biocapacity, gha)",Total Renewable Water Resources (10^9 m^3/year),nan
+494,Emissions of CO2eq from Other Sources (gigagrams),Total Emissions of CO2eq (gigagrams),0.9531645569620252
+495,"Cropland (Eco. Footprint, gha)",Total Emissions of CO2eq (gigagrams),0.588740759850637
+496,"Carbon (Biocapacity, gha)","Death Rate, Crude (annually per 1000 people)",nan
+497,Emissions of CO2eq from Transportation (gigagrams),"Fishing Grounds (Eco. Footprint, gha)",0.5929859195557958
+498,"Death Rate, Crude (annually per 1000 people)",Emissions of CO2eq from Other Sources (gigagrams),-0.5460533205932067
+499,"Carbon (Biocapacity, gha)",Industrial Production (% Relative to 2015),nan
+500,"Forest Products (Biocapacity, gha)",Total Emissions of CO2eq (gigagrams),-0.337254354354284
+501,"Total (Biocapacity, gha)","Total (Eco. Footprint, gha)",0.9955570745044431
+502,Emissions of CO2eq from Agriculture (gigagrams),"Grazing Land (Biocapacity, gha)",0.7991120074618407
+503,"Birth Rate, Crude (annually per 1000 people)","Carbon (Biocapacity, gha)",nan
+504,Major livestock density in agricultural areas (LSU/ha),Population (1000 persons),0.9886534518113466
+505,Emissions of CO2eq from Forests (gigagrams),Total Renewable Water Resources (10^9 m^3/year),-0.7553984837012856
+506,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)",Total Renewable Water Resources Per Capita (m^3/capita/year),0.8677339674853475
+507,"Carbon (Biocapacity, gha)",Major livestock density in agricultural areas (LSU/ha),nan
+508,"Carbon (Biocapacity, gha)","Cropland (Biocapacity, gha)",nan
+509,Emissions of CO2eq from Energy Production (gigagrams),"Forest Products (Eco. Footprint, gha)",0.4831620657019649
+510,Total Renewable Water Resources Per Capita (m^3/capita/year),Use of Potash per area of cropland (kg/ha),0.4883820389542705
+511,"Death Rate, Crude (annually per 1000 people)",Emissions of CO2eq from Land Use Sources (gigagrams),-0.48504880334870215
+512,"Carbon (Biocapacity, gha)",Emissions of CO2eq from Forests (gigagrams),nan
+513,Emissions of CO2eq from Energy Production (gigagrams),Emissions of CO2eq from Waste (gigagrams),0.9999095840867992
+514,"Carbon (Biocapacity, gha)","Carbon (Biocapacity, gha)",nan
+515,Emissions of CO2eq from Transportation (gigagrams),Total Renewable Water Resources (10^9 m^3/year),0.8177554333559582
+516,"Cropland (Biocapacity, gha)","Forest Products (Biocapacity, gha)",-0.8809979494190021
+517,Emissions of CO2eq from Other Sources (gigagrams),Emissions of CO2eq from Other Sources (gigagrams),1.0
+518,Emissions of CO2eq from Waste (gigagrams),Total Renewable Water Resources (10^9 m^3/year),0.8149573651022229
+519,"Cropland (Biocapacity, gha)","Total (Eco. Footprint, gha)",0.9954887218045115
+520,"Fishing Grounds (Eco. Footprint, gha)","Forest Products (Eco. Footprint, gha)",0.9473000683527
+521,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)","Forest Products (Eco. Footprint, gha)",0.6586619847453138
+522,Total Emissions of CO2eq (gigagrams),Use of Potash per area of cropland (kg/ha),0.35155958149391603
+523,"Birth Rate, Crude (annually per 1000 people)","Death Rate, Crude (annually per 1000 people)",0.9921394395078605
+524,Emissions of CO2eq from Transportation (gigagrams),Population (1000 persons),0.5905488834287602
+525,"Carbon (Biocapacity, gha)","Total (Eco. Footprint, gha)",nan
+526,Emissions of CO2eq from Other Sources (gigagrams),Total Renewable Water Resources (10^9 m^3/year),0.7557982077375335
+527,"Built-up Land (Eco. Footprint, gha)","Fishing Grounds (Biocapacity, gha)",-0.706015037593985
+528,"Forest Products (Eco. Footprint, gha)",Population (1000 persons),0.9450444292549557
+529,"Built-up Land (Eco. Footprint, gha)",Population (1000 persons),0.9995898838004101
+530,Emissions of CO2eq from Transportation (gigagrams),Use of Phosphate per area of cropland (kg/ha),0.3354237429858763
+531,"Built-up Land (Biocapacity, gha)",Industrial Production (% Relative to 2015),0.9832386609297151
+532,Emissions of CO2eq from Transportation (gigagrams),Use of Potash per area of cropland (kg/ha),0.355593541120926
+533,Total Emissions of CO2eq (gigagrams),Year,0.5907061115659883
+534,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)","Birth Rate, Crude (annually per 1000 people)",-0.7666138914667886
+535,Total Emissions of CO2eq (gigagrams),Total Renewable Water Resources (10^9 m^3/year),0.8101606766672482
+536,"Birth Rate, Crude (annually per 1000 people)","Built-up Land (Biocapacity, gha)",-0.9915926179084074
+537,"Cropland (Eco. Footprint, gha)",Use of Pesticides per area of cropland (kg/ha),0.9243496693293228
+538,Total Renewable Water Resources Per Capita (m^3/capita/year),Total Renewable Water Resources Per Capita (m^3/capita/year),1.0
+539,"Birth Rate, Crude (annually per 1000 people)",Emissions of CO2eq from Energy Production (gigagrams),-0.5920425507324272
+540,"Death Rate, Crude (annually per 1000 people)",Use of Nitrogen per area of cropland (kg/ha),-0.77908418518859
+541,Industrial Production (% Relative to 2015),Industrial Production (% Relative to 2015),1.0
+542,Population (1000 persons),Use of Pesticides per area of cropland (kg/ha),0.9259700432516531
+543,Emissions of CO2eq from Energy Production (gigagrams),Emissions of CO2eq from Transportation (gigagrams),0.9983725135623869
+544,"Grazing Land (Biocapacity, gha)",Industrial Production (% Relative to 2015),0.7522834946472228
+545,"Cropland (Biocapacity, gha)",Emissions of CO2eq from Waste (gigagrams),0.5903916552915321
+546,"Built-up Land (Eco. Footprint, gha)",Use of Nitrogen per area of cropland (kg/ha),0.77908418518859
+547,Emissions of CO2eq from Agriculture (gigagrams),Total Renewable Water Resources Per Capita (m^3/capita/year),0.8137581929934793
+548,Total Emissions of CO2eq (gigagrams),Use of Pesticides per area of cropland (kg/ha),0.6389711820375759
+549,Emissions of CO2eq from Energy Production (gigagrams),Total Renewable Water Resources Per Capita (m^3/capita/year),0.8149573651022229
+550,"Grazing Land (Eco. Footprint, gha)",Population (1000 persons),0.8844839371155161
+551,Emissions of CO2eq from Land Use Sources (gigagrams),"Forest Products (Eco. Footprint, gha)",0.3834794266993467
+552,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)","Grazing Land (Biocapacity, gha)",0.7944638919723288
+553,Total Renewable Water Resources (10^9 m^3/year),Use of Phosphate per area of cropland (kg/ha),0.48882788708185343
+554,Emissions of CO2eq from Transportation (gigagrams),Emissions of CO2eq from Waste (gigagrams),0.9981916817359854
+555,"Built-up Land (Eco. Footprint, gha)",Use of Phosphate per area of cropland (kg/ha),0.7711925052035622
+556,Emissions of CO2eq from Land Use Sources (gigagrams),"Fishing Grounds (Eco. Footprint, gha)",0.48339790790780707
+557,"Built-up Land (Eco. Footprint, gha)","Fishing Grounds (Eco. Footprint, gha)",0.9838687628161312
+558,"Built-up Land (Eco. Footprint, gha)","Carbon (Biocapacity, gha)",nan
+559,"Fishing Grounds (Biocapacity, gha)",Year,-0.7057416267942584
+560,Food supply (kcal/capita/day),Major livestock density in agricultural areas (LSU/ha),0.6799507842805267
+561,"Carbon (Eco. Footprint, gha)",Total Emissions of CO2eq (gigagrams),0.5910205678404445
+562,"Carbon (Biocapacity, gha)",Use of Pesticides per area of cropland (kg/ha),nan
+563,"Fishing Grounds (Biocapacity, gha)",Use of Phosphate per area of cropland (kg/ha),-0.4113318978862888
+564,"Built-up Land (Eco. Footprint, gha)",Use of Pesticides per area of cropland (kg/ha),0.9258227365314413
+565,Emissions of CO2eq from Agriculture (gigagrams),Total Emissions of CO2eq (gigagrams),0.9969258589511754
+566,"Cropland (Biocapacity, gha)",Use of Pesticides per area of cropland (kg/ha),0.9243496693293228
+567,"Built-up Land (Eco. Footprint, gha)",Total Renewable Water Resources (10^9 m^3/year),0.846837154875799
+568,"Built-up Land (Biocapacity, gha)","Forest Products (Eco. Footprint, gha)",0.9449077238550924
+569,"Forest Products (Eco. Footprint, gha)",Total Renewable Water Resources (10^9 m^3/year),0.8006826879269745
+570,"Built-up Land (Biocapacity, gha)",Use of Potash per area of cropland (kg/ha),0.7707540785377274
+571,"Death Rate, Crude (annually per 1000 people)",Total Emissions of CO2eq (gigagrams),-0.5906274974973743
+572,"Fishing Grounds (Biocapacity, gha)",Use of Pesticides per area of cropland (kg/ha),-0.5349443544493125
+573,Emissions of CO2eq from Forests (gigagrams),Food supply (kcal/capita/day),-0.6308424078147379
+574,"Total (Eco. Footprint, gha)",Total Emissions of CO2eq (gigagrams),0.5905488834287602
+575,Food supply (kcal/capita/day),"Forest Products (Biocapacity, gha)",-0.5777565123895658
+576,"Built-up Land (Eco. Footprint, gha)","Carbon (Eco. Footprint, gha)",0.990498974709501
+577,"Cropland (Eco. Footprint, gha)",Population (1000 persons),0.9973342447026657
+578,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)","Forest Products (Biocapacity, gha)",-0.5070215738294335
+579,Emissions of CO2eq from Land Use Sources (gigagrams),Use of Phosphate per area of cropland (kg/ha),0.0762418369504878
+580,"Carbon (Eco. Footprint, gha)",Emissions of CO2eq from Waste (gigagrams),0.591649480389357
+581,Emissions of CO2eq from Forests (gigagrams),"Forest Products (Eco. Footprint, gha)",-0.39008300846292715
+582,Use of Nitrogen per area of cropland (kg/ha),Year,0.779259555854924
+583,"Built-up Land (Biocapacity, gha)",Total Emissions of CO2eq (gigagrams),0.5905488834287602
+584,Average Annual Precipitation (mm/year),Emissions of CO2eq from Transportation (gigagrams),0.8177554333559583
+585,Emissions of CO2eq from Agriculture (gigagrams),Total Renewable Water Resources (10^9 m^3/year),0.8137581929934793
+586,"Fishing Grounds (Eco. Footprint, gha)",Use of Potash per area of cropland (kg/ha),0.7770674225257496
+587,Emissions of CO2eq from Forests (gigagrams),Emissions of CO2eq from Waste (gigagrams),-0.8955696202531646
+588,Emissions of CO2eq from Agriculture (gigagrams),"Fishing Grounds (Biocapacity, gha)",-0.4527384211483267
+589,"Death Rate, Crude (annually per 1000 people)","Forest Products (Eco. Footprint, gha)",-0.9453861927546139
+590,"Cropland (Eco. Footprint, gha)",Major livestock density in agricultural areas (LSU/ha),0.9875598086124403
+591,Average Annual Precipitation (mm/year),"Built-up Land (Biocapacity, gha)",0.846837154875799
+592,"Total (Biocapacity, gha)",Total Renewable Water Resources Per Capita (m^3/capita/year),0.8455859795669453
+593,"Built-up Land (Biocapacity, gha)",Emissions of CO2eq from Land Use Sources (gigagrams),0.48504880334870215
+594,"Forest Products (Biocapacity, gha)",Population (1000 persons),-0.8806561859193439
+595,Emissions of CO2eq from Forests (gigagrams),Total Emissions of CO2eq (gigagrams),-0.9015370705244122
+596,"Total (Biocapacity, gha)","Total (Biocapacity, gha)",1.0
+597,"Death Rate, Crude (annually per 1000 people)","Grazing Land (Eco. Footprint, gha)",-0.8848257006151744
+598,Emissions of CO2eq from Waste (gigagrams),"Total (Biocapacity, gha)",0.5905488834287602
+599,Total Renewable Water Resources (10^9 m^3/year),Use of Nitrogen per area of cropland (kg/ha),0.4794650764026132
+600,"Fishing Grounds (Eco. Footprint, gha)","Grazing Land (Eco. Footprint, gha)",0.881613123718387
+601,Emissions of CO2eq from Agriculture (gigagrams),Population (1000 persons),0.5912564100462867
+602,Emissions of CO2eq from Forests (gigagrams),Major livestock density in agricultural areas (LSU/ha),-0.4976270543269505
+603,"Death Rate, Crude (annually per 1000 people)",Emissions of CO2eq from Energy Production (gigagrams),-0.5919639366638132
+604,Average Annual Precipitation (mm/year),Food supply (kcal/capita/day),0.8355641823766163
+605,Population (1000 persons),Total Emissions of CO2eq (gigagrams),0.5907061115659884
+606,"Death Rate, Crude (annually per 1000 people)","Forest Products (Biocapacity, gha)",0.8803144224196857
+607,Emissions of CO2eq from Forests (gigagrams),Year,-0.5013219155518109
+608,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)",Emissions of CO2eq from Energy Production (gigagrams),0.7824703274016331
+609,"Birth Rate, Crude (annually per 1000 people)",Total Renewable Water Resources Per Capita (m^3/capita/year),-0.8455859795669453
+610,"Fishing Grounds (Eco. Footprint, gha)",Year,0.9847573479152427
+611,Emissions of CO2eq from Energy Production (gigagrams),Industrial Production (% Relative to 2015),0.6207868308372582
+612,"Birth Rate, Crude (annually per 1000 people)",Total Emissions of CO2eq (gigagrams),-0.5907061115659884
+613,Emissions of CO2eq from Land Use Sources (gigagrams),Emissions of CO2eq from Transportation (gigagrams),0.8774864376130198
+614,Emissions of CO2eq from Energy Production (gigagrams),Food supply (kcal/capita/day),0.7263650306331462
+615,Average Annual Precipitation (mm/year),"Fishing Grounds (Eco. Footprint, gha)",0.8393996127620578
+616,Food supply (kcal/capita/day),Use of Potash per area of cropland (kg/ha),0.39461097289870883
+617,"Carbon (Eco. Footprint, gha)","Cropland (Eco. Footprint, gha)",0.9883800410116199
+618,"Built-up Land (Biocapacity, gha)",Use of Phosphate per area of cropland (kg/ha),0.7711925052035622
+619,"Fishing Grounds (Eco. Footprint, gha)","Total (Eco. Footprint, gha)",0.9810663021189336
+620,"Built-up Land (Biocapacity, gha)","Carbon (Biocapacity, gha)",nan
+621,"Grazing Land (Biocapacity, gha)",Use of Pesticides per area of cropland (kg/ha),0.6548520247017537
+622,"Total (Eco. Footprint, gha)",Use of Pesticides per area of cropland (kg/ha),0.926043696611759
+623,Emissions of CO2eq from Energy Production (gigagrams),Total Emissions of CO2eq (gigagrams),0.9984629294755877
+624,"Forest Products (Eco. Footprint, gha)",Use of Potash per area of cropland (kg/ha),0.73760902260061
+625,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)","Cropland (Biocapacity, gha)",0.7629384492232003
+626,"Fishing Grounds (Eco. Footprint, gha)",Use of Pesticides per area of cropland (kg/ha),0.9127124384325872
+627,Population (1000 persons),Year,1.0
+628,"Cropland (Eco. Footprint, gha)",Emissions of CO2eq from Land Use Sources (gigagrams),0.4835551360450352
+629,Emissions of CO2eq from Agriculture (gigagrams),Year,0.5912564100462867
+630,"Carbon (Eco. Footprint, gha)",Use of Potash per area of cropland (kg/ha),0.7703156518718923
+631,"Total (Biocapacity, gha)",Use of Pesticides per area of cropland (kg/ha),0.9242023626091109
+632,"Built-up Land (Eco. Footprint, gha)",Total Renewable Water Resources Per Capita (m^3/capita/year),0.846837154875799
+633,Emissions of CO2eq from Energy Production (gigagrams),Use of Phosphate per area of cropland (kg/ha),0.3313897833588664
+634,Emissions of CO2eq from Energy Production (gigagrams),Year,0.5920425507324272
+635,Food supply (kcal/capita/day),Use of Phosphate per area of cropland (kg/ha),0.38049266920166613
+636,Emissions of CO2eq from Agriculture (gigagrams),"Total (Eco. Footprint, gha)",0.5913350241149008
+637,"Carbon (Biocapacity, gha)",Total Emissions of CO2eq (gigagrams),nan
+638,"Built-up Land (Eco. Footprint, gha)",Total Emissions of CO2eq (gigagrams),0.5905488834287602
+639,Industrial Production (% Relative to 2015),Use of Nitrogen per area of cropland (kg/ha),0.773901212834358
+640,"Cropland (Eco. Footprint, gha)",Emissions of CO2eq from Agriculture (gigagrams),0.5910991819090585
+641,"Carbon (Eco. Footprint, gha)",Emissions of CO2eq from Other Sources (gigagrams),0.5474683738282596
+642,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)",Total Emissions of CO2eq (gigagrams),0.7829061226271423
+643,Emissions of CO2eq from Waste (gigagrams),Population (1000 persons),0.5921211648010414
+644,Emissions of CO2eq from Energy Production (gigagrams),"Grazing Land (Biocapacity, gha)",0.800920131039964
+645,"Carbon (Eco. Footprint, gha)","Fishing Grounds (Biocapacity, gha)",-0.6964456596035544
+646,"Carbon (Biocapacity, gha)",Emissions of CO2eq from Transportation (gigagrams),nan
+647,"Built-up Land (Eco. Footprint, gha)",Emissions of CO2eq from Forests (gigagrams),-0.5011646874145829
+648,Emissions of CO2eq from Energy Production (gigagrams),Emissions of CO2eq from Other Sources (gigagrams),0.9454792043399638
+649,"Carbon (Biocapacity, gha)","Forest Products (Eco. Footprint, gha)",nan
+650,"Grazing Land (Biocapacity, gha)","Grazing Land (Biocapacity, gha)",1.0
+651,"Built-up Land (Biocapacity, gha)","Cropland (Biocapacity, gha)",0.9982228298017771
+652,"Birth Rate, Crude (annually per 1000 people)","Total (Eco. Footprint, gha)",-0.992617908407382
+653,"Built-up Land (Eco. Footprint, gha)",Year,0.9995898838004101
+654,"Forest Products (Eco. Footprint, gha)","Grazing Land (Eco. Footprint, gha)",0.8041695146958305
+655,Industrial Production (% Relative to 2015),Total Renewable Water Resources Per Capita (m^3/capita/year),0.8627466814608753
+656,"Cropland (Eco. Footprint, gha)","Total (Biocapacity, gha)",0.9989747095010254
+657,"Built-up Land (Biocapacity, gha)","Forest Products (Biocapacity, gha)",-0.8798359535201641
+658,"Total (Eco. Footprint, gha)","Total (Eco. Footprint, gha)",1.0
+659,"Total (Biocapacity, gha)",Total Renewable Water Resources (10^9 m^3/year),0.8455859795669453
+660,"Birth Rate, Crude (annually per 1000 people)",Industrial Production (% Relative to 2015),-0.9825497566305874
+661,"Forest Products (Biocapacity, gha)","Total (Eco. Footprint, gha)",-0.8781954887218046
+662,"Fishing Grounds (Biocapacity, gha)",Industrial Production (% Relative to 2015),-0.7041979745681238
+663,"Carbon (Biocapacity, gha)",Use of Potash per area of cropland (kg/ha),nan
+664,"Cropland (Eco. Footprint, gha)",Use of Potash per area of cropland (kg/ha),0.7692634278738887
+665,"Carbon (Eco. Footprint, gha)",Food supply (kcal/capita/day),0.7120103919841124
+666,"Carbon (Eco. Footprint, gha)",Use of Nitrogen per area of cropland (kg/ha),0.7770674225257496
+667,Average Annual Precipitation (mm/year),"Grazing Land (Eco. Footprint, gha)",0.9255221798548193
+668,Population (1000 persons),Use of Phosphate per area of cropland (kg/ha),0.7713678758698962
+669,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)","Grazing Land (Eco. Footprint, gha)",0.8213666135491092
+670,Emissions of CO2eq from Transportation (gigagrams),"Fishing Grounds (Biocapacity, gha)",-0.45454654472644995
+671,Year,Year,1.0
+672,Emissions of CO2eq from Other Sources (gigagrams),"Forest Products (Biocapacity, gha)",-0.2565177058876524
+673,"Total (Eco. Footprint, gha)",Year,0.9965823650034177
+674,"Total (Biocapacity, gha)",Use of Phosphate per area of cropland (kg/ha),0.7651422172150408
+675,"Fishing Grounds (Biocapacity, gha)","Grazing Land (Eco. Footprint, gha)",-0.6191387559808613
+676,Emissions of CO2eq from Land Use Sources (gigagrams),"Fishing Grounds (Biocapacity, gha)",-0.41602565110556433
+677,Emissions of CO2eq from Energy Production (gigagrams),Total Renewable Water Resources (10^9 m^3/year),0.8149573651022229
+678,Emissions of CO2eq from Energy Production (gigagrams),Emissions of CO2eq from Land Use Sources (gigagrams),0.8768535262206147
+679,Emissions of CO2eq from Other Sources (gigagrams),Use of Potash per area of cropland (kg/ha),0.2681574662054856
+680,Emissions of CO2eq from Energy Production (gigagrams),"Total (Biocapacity, gha)",0.5907061115659883
+681,Food supply (kcal/capita/day),"Grazing Land (Eco. Footprint, gha)",0.7604074117157514
+682,"Death Rate, Crude (annually per 1000 people)","Death Rate, Crude (annually per 1000 people)",1.0
+683,"Total (Eco. Footprint, gha)",Total Renewable Water Resources Per Capita (m^3/capita/year),0.8460725477426108
+684,Average Annual Precipitation (mm/year),"Carbon (Biocapacity, gha)",nan
+685,"Built-up Land (Biocapacity, gha)",Total Renewable Water Resources (10^9 m^3/year),0.846837154875799
+686,"Cropland (Biocapacity, gha)",Emissions of CO2eq from Energy Production (gigagrams),0.5904702693601462
+687,"Built-up Land (Biocapacity, gha)","Cropland (Eco. Footprint, gha)",0.9982228298017771
+688,"Cropland (Biocapacity, gha)",Industrial Production (% Relative to 2015),0.9817575166865912
+689,"Grazing Land (Biocapacity, gha)",Major livestock density in agricultural areas (LSU/ha),0.7261107313738893
+690,"Carbon (Eco. Footprint, gha)",Emissions of CO2eq from Energy Production (gigagrams),0.5918067085265851
+691,Average Annual Precipitation (mm/year),"Fishing Grounds (Biocapacity, gha)",-0.6960357752892403
+692,Average Annual Precipitation (mm/year),Emissions of CO2eq from Land Use Sources (gigagrams),0.7510015193025587
+693,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)",Year,0.7666138914667886
+694,"Grazing Land (Eco. Footprint, gha)",Total Renewable Water Resources Per Capita (m^3/capita/year),0.9255221798548193
+695,"Death Rate, Crude (annually per 1000 people)",Use of Potash per area of cropland (kg/ha),-0.7704910225382263
+696,"Built-up Land (Biocapacity, gha)","Grazing Land (Eco. Footprint, gha)",0.883937115516063
+697,Food supply (kcal/capita/day),Use of Pesticides per area of cropland (kg/ha),0.5925081296066484
+698,"Cropland (Biocapacity, gha)",Year,0.9973342447026657
+699,"Area with Permanent Snow/Glaciers (CCI-LC, 1000 ha)",Use of Nitrogen per area of cropland (kg/ha),0.5414948639542823
+700,"Death Rate, Crude (annually per 1000 people)",Major livestock density in agricultural areas (LSU/ha),-0.9892002734108
+701,"Fishing Grounds (Biocapacity, gha)",Total Renewable Water Resources (10^9 m^3/year),-0.6960357752892403
+702,"Carbon (Eco. Footprint, gha)",Major livestock density in agricultural areas (LSU/ha),0.9785372522214627
